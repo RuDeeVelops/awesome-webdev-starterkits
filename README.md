@@ -6,11 +6,11 @@ A curated list of awesome starter kits for web development, covering Tailwind CS
 
 - [Material Tailwind](https://material-tailwind.com/)
 - [HyperUI](https://www.hyperui.dev/)
-- [Shadcn](https://shadcn.github.io/)
+- [Shadcn](https://ui.shadcn.com/)
 - [DaisyUI](https://daisyui.com/)
-- [AceternityUI](https://aceternity.com/)
-- [Preline](https://preline.github.io/)
-- [Tailwind Awesome](https://tailwindawesome.com/)
+- [AceternityUI](https://ui.aceternity.com/)
+- [Preline](https://preline.co/)
+- [Tailwind Awesome](https://www.tailwindawesome.com/)
 
 ## Premium Starter Kits
 
