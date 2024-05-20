@@ -11,6 +11,7 @@ A curated list of awesome starter kits for web development, covering Tailwind CS
 - [DaisyUI](https://daisyui.com/)
 - [AceternityUI](https://ui.aceternity.com/)
 - [Preline](https://preline.co/)
+- [Tailkit](https://tailkit.com/)
 - [Tailwind Awesome](https://www.tailwindawesome.com/)
 
 ## Premium Starter Kits
