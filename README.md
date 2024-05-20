@@ -5,6 +5,7 @@ A curated list of awesome starter kits for web development, covering Tailwind CS
 ## Free Starter Kits
 
 - [Material Tailwind](https://material-tailwind.com/)
+- [Headless UI](https://headlessui.com/)
 - [HyperUI](https://www.hyperui.dev/)
 - [Shadcn](https://ui.shadcn.com/)
 - [DaisyUI](https://daisyui.com/)
