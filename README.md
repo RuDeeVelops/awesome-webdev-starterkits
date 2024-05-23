@@ -13,6 +13,7 @@ A curated list of awesome starter kits for web development, covering Tailwind CS
 - [Preline](https://preline.co/)
 - [Tailkit](https://tailkit.com/)
 - [Tailwind Awesome](https://www.tailwindawesome.com/)
+- [Hover Dev](https://www.hover.dev/components)
 
 ## Premium Starter Kits
 
